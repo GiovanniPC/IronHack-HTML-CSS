@@ -1,0 +1,203 @@
+body{
+    margin: 0 !important;
+}
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height:30px;
+  }
+  
+nav a {
+color: rgba(255,255,255,0.8);
+text-decoration: none;
+}
+
+.top-links {
+display: inline-block;
+float: right;
+padding: 0;
+margin: 0 20px 0 0;
+}
+
+.top-links li {
+display: inline-block;
+margin: 0 10px;
+}
+
+.heart {
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+
+}
+
+header {    
+    height: 750px;
+    background-image: url(./images/city-scape.svg);
+    background-color: rgb(32, 101, 136);    
+}
+
+.bearminilogo {
+    width:30px;
+    height:30px;
+    padding-top: 7px;
+}
+
+.npmlogo {
+    width:100px;
+    height:50px;
+}
+
+
+.header-top img {
+    margin: 10px;
+    float: left;
+}
+
+.header-top a {
+    margin-top: 20px;
+    float: left;
+    color:  grey; 
+    padding-left: 1%;
+    text-decoration: none;
+    
+}
+
+.header-top input {
+    border-color:  rgb(32, 101, 136); 
+    margin-top: 10px;
+    height: 33px;
+    width: 80%;
+    float: left;    
+    background-color: rgb(31, 82, 111);
+}
+
+.header-top button {
+    border-color:  rgb(32, 101, 136); 
+    padding: 0 !important;
+    border-width: 2 !important;
+    border-style: inset;
+    margin-top: 10px;
+    float: left;
+    height: 38px;
+    width: 2%;
+    background-color: rgb(31, 82, 111);
+}
+
+.header-middle {
+    padding-top: 10%;
+    margin: 0 auto;
+    width: 60%
+}
+
+.header-middle h1 {
+    padding-top: 20px;
+    margin: 0;
+    color: white;
+    font-size: 75px;
+    font-weight: unset;
+}
+
+.header-middle p {
+    padding-top: 30px;
+    color: white;
+    font-size: 25px;
+}
+
+.header-middle button {
+    margin-top: 70px;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(240, 146, 51);
+    width: 320px;
+    height: 70px;
+    border-radius: 30px;
+}
+
+.first {
+    padding-top: 180px;
+    padding-left: 15%;
+    height: 700px;
+    background-color: rgb(39, 53, 71);    
+}
+
+.first img {
+    margin-top: 20px;
+    float: left;
+    width: 700px;
+}
+
+.first first-middle {
+    float: left;
+    
+}
+
+.first-middle h1 {
+    margin-left: 750px;
+    padding-bottom: 20px;    
+    color: white;
+    font-size: 50px;
+    font-weight: unset;
+}   
+
+.first-middle ul {
+    margin-left: 750px;
+    color: white;
+    font-size: 25px;
+    font-weight: unset;
+}
+
+.first-middle li {
+    margin-top: 40px;
+}
+
+.first-middle button {
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 30px;
+    color: white;
+    background-color:rgb(203, 56, 55);
+    width: 320px;
+    height: 70px;
+    border-radius: 30px;
+}
+
+.first-middle p {
+    margin-left: 725px;
+    color: white;
+    font-size: 25px;
+}
+
+.second {
+    background-image: url(./images/forklift.svg);
+    background-size: cover; 
+    height: 800px;
+}
+
+.second-middle h1 {
+    margin-top: 0 !important; 
+    padding-top: 200px;
+    padding-left: 150px;   
+    color: white;
+    font-size: 50px;
+    font-weight: unset;
+}   
+
+.second-middle p {
+    margin-top: 0 !important; 
+    padding-top: 20px;
+    padding-left: 150px; 
+    color: white;
+    font-size: 30px;
+}   
+
+.second-middle button {
+    margin-left: 30px;
+    font-size: 30px;
+    color: white;
+    background-color:rgb(49, 68, 88);
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 150px;
+}
