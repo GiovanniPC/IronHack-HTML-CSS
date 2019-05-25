@@ -201,3 +201,69 @@ header {
     border-radius: 30px;
     margin-left: 150px;
 }
+
+.third {
+    height: 650px;
+    }
+
+.third-middle{    
+    padding-bottom:30px;
+}
+
+.third-middle h1 {
+    padding-top: 80px;
+    color: rgb(83, 88, 98);
+    font-size: 40px;
+    font-weight: bold;
+}   
+
+.third-middle p {
+    font-size: 25px;
+    color: rgb(135, 145, 156);
+}
+
+.divone {
+    float: left;
+    padding-left: 500px;
+}
+
+.divtwo {
+    float: left;
+    padding-left: 150px;
+}
+
+.divthree {
+    float: left;
+    padding-left: 150px;
+}
+
+.divone a {
+    color: rgb(208, 74, 73);
+    font-weight: unset;
+}
+
+.divone p {
+    color: rgb(135, 145, 156);
+    font-size: 20px;
+}
+
+.divtwo p {
+    color: rgb(135, 145, 156);
+    font-size: 20px;
+}
+
+.divthree p {
+    color: rgb(135, 145, 156);
+    font-size: 20px;
+}
+
+.boldd {
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 0 !important;
+    color: black;
+}
+
+.third img{
+    height: 200px;
+}
