@@ -224,17 +224,17 @@ header {
 
 .divone {
     float: left;
-    padding-left: 500px;
+    padding-left: 20%;
 }
 
 .divtwo {
     float: left;
-    padding-left: 150px;
+    padding-left: 11%;
 }
 
 .divthree {
     float: left;
-    padding-left: 150px;
+    padding-left: 11%;
 }
 
 .divone a {
