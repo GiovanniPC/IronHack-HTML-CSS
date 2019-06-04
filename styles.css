@@ -115,27 +115,27 @@ header {
 }
 
 .first {
-    padding-top: 180px;
+    padding-top: 220px;
     padding-left: 15%;
-    height: 700px;
+    height: 920px;
     background-color: rgb(39, 53, 71);  
     margin: 0 auto;  
 }
 
 .firstid {
-    float: left;
-    padding-left: 11%;
+ 
+    padding-left: 1%;
 }
 
 .first img {
     margin-top: 20px;
     float: left;
-    width: 40%;
+    width: 50%;
 }
 
 .first-middle {
     float: left;  
-    padding-left: 5%; 
+    padding-left: 1%; 
 }
 
 .first-middle h1 {
@@ -226,7 +226,8 @@ header {
     color: rgb(135, 145, 156);
 }
 .divtotal {
-    padding-left: 13%;
+    padding-left: 17%;
+    padding-right: 10%;
 }
 .divone {
     float: left;
