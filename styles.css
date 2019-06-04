@@ -118,22 +118,27 @@ header {
     padding-top: 180px;
     padding-left: 15%;
     height: 700px;
-    background-color: rgb(39, 53, 71);    
+    background-color: rgb(39, 53, 71);  
+    margin: 0 auto;  
+}
+
+.firstid {
+    float: left;
+    padding-left: 11%;
 }
 
 .first img {
     margin-top: 20px;
     float: left;
-    width: 700px;
+    width: 40%;
 }
 
-.first first-middle {
-    float: left;
-    
+.first-middle {
+    float: left;  
+    padding-left: 5%; 
 }
 
 .first-middle h1 {
-    margin-left: 750px;
     padding-bottom: 20px;    
     color: white;
     font-size: 50px;
@@ -141,7 +146,6 @@ header {
 }   
 
 .first-middle ul {
-    margin-left: 750px;
     color: white;
     font-size: 25px;
     font-weight: unset;
@@ -163,7 +167,7 @@ header {
 }
 
 .first-middle p {
-    margin-left: 725px;
+     margin-left: 40%;
     color: white;
     font-size: 25px;
 }
@@ -221,20 +225,25 @@ header {
     font-size: 25px;
     color: rgb(135, 145, 156);
 }
-
+.divtotal {
+    padding-left: 13%;
+}
 .divone {
     float: left;
-    padding-left: 20%;
+    padding-left: 10%;
+    display: inherit;
 }
 
 .divtwo {
     float: left;
-    padding-left: 11%;
+    display: inherit;
+    padding-left: 10%;
 }
 
-.divthree {
+.divthree {    
     float: left;
-    padding-left: 11%;
+    display: inherit;
+    padding-left: 10%;
 }
 
 .divone a {
