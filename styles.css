@@ -32,7 +32,7 @@ margin: 0 10px;
 }
 
 header {    
-    height: 750px;
+    height: 700px;
     background-image: url(./images/city-scape.svg);
     background-color: rgb(32, 101, 136);    
 }
@@ -67,7 +67,7 @@ header {
     border-color:  rgb(32, 101, 136); 
     margin-top: 10px;
     height: 33px;
-    width: 80%;
+    width: 75%;
     float: left;    
     background-color: rgb(31, 82, 111);
 }
@@ -225,25 +225,22 @@ header {
     color: rgb(135, 145, 156);
 }
 .divtotal {
-    padding-left: 15%;
-    padding-right: 10%;
+    display: flex;
+    justify-content: space-around;
 }
 .divone {
-    float: left;
-    padding-left: 10%;
-    display: inherit;
+    display: flex;
+    flex-direction: column;
 }
 
 .divtwo {
-    float: left;
-    display: inherit;
-    padding-left: 10%;
+    display: flex;
+    flex-direction: column;
 }
 
 .divthree {    
-    float: left;
-    display: inherit;
-    padding-left: 10%;
+    display: flex;
+    flex-direction: column;
 }
 
 .divone a {
@@ -268,7 +265,7 @@ header {
 
 .boldd {
     font-weight: bold;
-    font-size: 25px;
+    font-size: 30px;
     margin-top: 0 !important;
     color: black;
 }
